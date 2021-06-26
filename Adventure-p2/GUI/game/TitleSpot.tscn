@@ -1,0 +1,10 @@
+[gd_scene format=2]
+
+[node name="Title" type="Label"]
+margin_right = 461.0
+margin_bottom = 40.0
+text = "Le titre du spot le titre"
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}

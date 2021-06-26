@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="InfoLabel" type="Label"]
+margin_right = 461.0
+margin_bottom = 40.0
+text = "ESC pour quitter - SPACEBAR pour mettre en pause."
+align = 1
+valign = 1
+__meta__ = {
+"_edit_use_anchors_": false
+}
