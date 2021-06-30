@@ -6,6 +6,7 @@ margin_bottom = 40.0
 text = "PROTO 02 : ADVENTURE GAME"
 align = 1
 valign = 1
+uppercase = true
 __meta__ = {
 "_edit_use_anchors_": false
 }

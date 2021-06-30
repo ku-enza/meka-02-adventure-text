@@ -3,6 +3,7 @@
 [node name="InfoLabel" type="Label"]
 margin_right = 461.0
 margin_bottom = 40.0
+custom_colors/font_color = Color( 0.533333, 0.784314, 0.886275, 1 )
 text = "Faites [ ESC ] pour quitter, [ SPACEBAR ] pour mettre en pause."
 align = 1
 valign = 1
